@@ -1,0 +1,3 @@
+string entity_type
+---
+string[] entities_list
